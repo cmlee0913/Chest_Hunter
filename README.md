@@ -2,7 +2,7 @@
 # Platform : PC
 # Engine : Unity 3D
 # Puzzle, TPS, PC
-#
+
 It is a field-gimmick puzzle game using Unity 3D.
 TPS views were used to create a feeling of field adventure games.
 The puzzle was implemented using the Unity C# library and the String class.
