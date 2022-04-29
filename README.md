@@ -10,7 +10,7 @@ Movement or interaction of objects using Key Input, map creation using terrains 
 In addition to player or dialog motion using animator, we implemented state-specific metabolic changes using scripts.
 #
 
-Dev Log : https://www.notion.so/Chest-Hunter-3d6786e6a82c4315a1169a1d4c8eaeef
+Dev Log : https://www.notion.so/Chest-Hunter-3d6786e6a82c4315a1169a1d4c8eaeef  
 Email : cmlee0913@naver.com
 
 #
