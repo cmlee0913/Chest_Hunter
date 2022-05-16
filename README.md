@@ -1,4 +1,4 @@
-# Title : Chest Hunter (prototype)
+# Title : Chest Hunter
 # Platform : PC
 # Engine : Unity 3D
 # Puzzle, TPS, PC
